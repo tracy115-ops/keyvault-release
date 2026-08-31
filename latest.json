@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "keyvault v0.1.1 \u6b63\u5f0f\u53d1\u5e03\uff1a\u96c6\u6210\u5728\u7ebf\u81ea\u52a8\u66f4\u65b0\u4e0e\u9632\u5fa1\u89c4\u5219\u5e93\u66f4\u65b0\u673a\u5236\u3002",
+  "pub_date": "2026-08-31T04:48:37Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleHRSemRhL091VXZCeG9tc1M5eGNBODhwd09QZ0FzUXZoY2NDWEZGNW80eVRCbDh3R0pqNElYTVgvYUFGUndTOW1abGwzUGJkM0dWNWQzOEZQQ29LRFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTUxNjM4CWZpbGU6a2V5dmF1bHRfMC4xLjFfeDY0LXNldHVwLmV4ZQprTmlWMHRzRU5NaFR5RHRVUCtPZGZoZHNYWFVmc2Z0cjZ1YjIrOFNoNEY5YzB4Uk9KTS9PYmJCY1dDNFFpOC96eC9rdTVVRnIrRHlYcWNPdjI2Z2dEQT09Cg==",
+      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.1/keyvault_0.1.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleHRSemRhL091VXZCeG9tc1M5eGNBODhwd09QZ0FzUXZoY2NDWEZGNW80eVRCbDh3R0pqNElYTVgvYUFGUndTOW1abGwzUGJkM0dWNWQzOEZQQ29LRFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTUxNjM4CWZpbGU6a2V5dmF1bHRfMC4xLjFfeDY0LXNldHVwLmV4ZQprTmlWMHRzRU5NaFR5RHRVUCtPZGZoZHNYWFVmc2Z0cjZ1YjIrOFNoNEY5YzB4Uk9KTS9PYmJCY1dDNFFpOC96eC9rdTVVRnIrRHlYcWNPdjI2Z2dEQT09Cg==",
+      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.1/keyvault_0.1.1_x64-setup.exe"
+    }
+  }
+}
