@@ -1,19 +1,19 @@
 {
   "version": "0.1.3",
-  "notes": "keyvault v0.1.3 \u6b63\u5f0f\u53d1\u5e03",
+  "notes": "keyvault v0.1.3 \u6b63\u5f0f\u53d1\u5e03\uff1a\u4f18\u5316\u539f\u751f\u5907\u4efd\u76ee\u5f55/\u6587\u4ef6\u9009\u62e9\u5668\u4e0e\u4fee\u590d\u52a0\u5bc6\u5bfc\u51fa\u95ee\u9898\u3002",
   "pub_date": "2026-08-31T06:57:13Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleG1YaU9IaFoySjlDemp6SDQ2eFdYWXBaMFkxRkFWeHUxU3JjU05MQXNTaC9nVW9jV3JkdUZKVTBqa1lQQldCZXB0WGxocHd4c3dOR0c4eDZ4WWU4d3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0LXNldHVwLmV4ZQpIek1hOHlZRGpleDBCcnYzcnl4NEE0dlFQYk1lMGtxVW9ud2JITzlYc2NHVmFVVm42cUVIVlJhYThhei8ybEFhTW1VWGV5MmJ4cEorM29GWG1XQ1pBUT09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
+      "url": "https://ghfast.top/https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleG1YaU9IaFoySjlDemp6SDQ2eFdYWXBaMFkxRkFWeHUxU3JjU05MQXNTaC9nVW9jV3JkdUZKVTBqa1lQQldCZXB0WGxocHd4c3dOR0c4eDZ4WWU4d3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0LXNldHVwLmV4ZQpIek1hOHlZRGpleDBCcnYzcnl4NEE0dlFQYk1lMGtxVW9ud2JITzlYc2NHVmFVVm42cUVIVlJhYThhei8ybEFhTW1VWGV5MmJ4cEorM29GWG1XQ1pBUT09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
+      "url": "https://ghfast.top/https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleHAxZUxyT1B0anN2Z1NFRStOeUowcldnSHhQRVpDcHVuR3dzOXUrSi9iRDAwVkpzenpXVjY2aHNpdjBmSU1FMnJuK1VzR0V0UFVXUGRHcU1YUWZhVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0X2VuLVVTLm1zaQp0RGcwTGNYZVZaeWdjNFVuUStSb0l2QzBhWFA3SkZralBMQUF0OTNYeXd3Q01OQ1hYRmxTSE5MU2NhbXg3amhzQ0xRQzl0bG5jNTRXNEpqSlVTd2hCUT09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64_en-US.msi"
+      "url": "https://ghfast.top/https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64_en-US.msi"
     }
   }
 }
