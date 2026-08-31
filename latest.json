@@ -1,19 +1,19 @@
 {
-  "version": "0.1.2",
-  "notes": "keyvault v0.1.2 \u6b63\u5f0f\u53d1\u5e03",
-  "pub_date": "2026-08-31T06:23:45Z",
+  "version": "0.1.3",
+  "notes": "keyvault v0.1.3 \u6b63\u5f0f\u53d1\u5e03",
+  "pub_date": "2026-08-31T06:57:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleGlwdVBCK0szZ3gxa3Q1Y3ZiSjgvSmwxRHNIdEo3cEpjNmRWUGh0Syt0Mmhoa3BTMjQveUlEVEpkQlAwaVQ3eklhTzF0K0JkTThlcEZRM0UxTUczZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU3MTUyCWZpbGU6a2V5dmF1bHRfMC4xLjJfeDY0LXNldHVwLmV4ZQprN3hGVE51ZXdWODdQVHRobjFUbDQ1emtRRlJ6OWc2MHVnOS9icDRmQ0piZ0pLSVJKeTlNTDdlTWNoQ2FQMWtzRmVGYkdKVTFaRmNaOHlMMGpkR2JBZz09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.2/keyvault_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleG1YaU9IaFoySjlDemp6SDQ2eFdYWXBaMFkxRkFWeHUxU3JjU05MQXNTaC9nVW9jV3JkdUZKVTBqa1lQQldCZXB0WGxocHd4c3dOR0c4eDZ4WWU4d3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0LXNldHVwLmV4ZQpIek1hOHlZRGpleDBCcnYzcnl4NEE0dlFQYk1lMGtxVW9ud2JITzlYc2NHVmFVVm42cUVIVlJhYThhei8ybEFhTW1VWGV5MmJ4cEorM29GWG1XQ1pBUT09Cg==",
+      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleGlwdVBCK0szZ3gxa3Q1Y3ZiSjgvSmwxRHNIdEo3cEpjNmRWUGh0Syt0Mmhoa3BTMjQveUlEVEpkQlAwaVQ3eklhTzF0K0JkTThlcEZRM0UxTUczZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU3MTUyCWZpbGU6a2V5dmF1bHRfMC4xLjJfeDY0LXNldHVwLmV4ZQprN3hGVE51ZXdWODdQVHRobjFUbDQ1emtRRlJ6OWc2MHVnOS9icDRmQ0piZ0pLSVJKeTlNTDdlTWNoQ2FQMWtzRmVGYkdKVTFaRmNaOHlMMGpkR2JBZz09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.2/keyvault_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleG1YaU9IaFoySjlDemp6SDQ2eFdYWXBaMFkxRkFWeHUxU3JjU05MQXNTaC9nVW9jV3JkdUZKVTBqa1lQQldCZXB0WGxocHd4c3dOR0c4eDZ4WWU4d3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0LXNldHVwLmV4ZQpIek1hOHlZRGpleDBCcnYzcnl4NEE0dlFQYk1lMGtxVW9ud2JITzlYc2NHVmFVVm42cUVIVlJhYThhei8ybEFhTW1VWGV5MmJ4cEorM29GWG1XQ1pBUT09Cg==",
+      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleGxzQjJrMmhpU2J1MEtsWDFXWDd3MklwTm5ralRSM2ZJTmVBaDUrUE9nc0hWVVlkeGxFclJVRDZmNHBvajdvMDdyek5YMHg4QVRRVUFGNmhCSisvM0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU3MTUyCWZpbGU6a2V5dmF1bHRfMC4xLjJfeDY0X2VuLVVTLm1zaQpRTTFhTWFiSnM1dGVnbElhVEtLUzFOV3VaQ2cvNnM2SVJ4WHRsT01oRjYyUjdpYWpqMWhDK3NOWkl1cWFPL0M4RVFXMi85c201a24rMUZMTnlBa1BBQT09Cg==",
-      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.2/keyvault_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZURYVVA3UWpleHAxZUxyT1B0anN2Z1NFRStOeUowcldnSHhQRVpDcHVuR3dzOXUrSi9iRDAwVkpzenpXVjY2aHNpdjBmSU1FMnJuK1VzR0V0UFVXUGRHcU1YUWZhVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTU5MTcxCWZpbGU6a2V5dmF1bHRfMC4xLjNfeDY0X2VuLVVTLm1zaQp0RGcwTGNYZVZaeWdjNFVuUStSb0l2QzBhWFA3SkZralBMQUF0OTNYeXd3Q01OQ1hYRmxTSE5MU2NhbXg3amhzQ0xRQzl0bG5jNTRXNEpqSlVTd2hCUT09Cg==",
+      "url": "https://github.com/tracy115-ops/keyvault-release/releases/download/v0.1.3/keyvault_0.1.3_x64_en-US.msi"
     }
   }
 }
